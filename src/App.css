@@ -1,0 +1,18 @@
+/* // extrenal styling */
+
+body{
+    background-color: rgba(128, 128, 0, 0.795);
+    font-family: cursive;
+}
+
+h1 {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  p {
+    font-size: 18px;
+    padding: 20px;
+  }
